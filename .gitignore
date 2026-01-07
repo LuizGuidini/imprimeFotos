@@ -1,0 +1,21 @@
+# Ignorar fotos recebidas e processadas
+fotos_recebidas/
+fotos_processadas/
+saidas/
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar ambientes virtuais
+venv/
+.env/
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
