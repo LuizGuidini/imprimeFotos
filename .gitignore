@@ -1,7 +1,7 @@
 # Ignorar fotos recebidas e processadas
-fotos_recebidas/
-fotos_processadas/
-saidas/
+#fotos_recebidas/
+#fotos_processadas/
+#saidas/
 
 # Ignorar arquivos temporários do Python
 __pycache__/
